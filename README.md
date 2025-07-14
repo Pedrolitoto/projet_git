@@ -1,2 +1,1 @@
-# projet_gi
-pwd
+
